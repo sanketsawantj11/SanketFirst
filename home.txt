@@ -2,4 +2,9 @@ HEllo
 
 Welcome to home page
 
+<<<<<<< HEAD
 SSS
+=======
+Selenium 
+MAnual
+>>>>>>> 2c8d26167cb61cfadd2b9a200e07e20ae1571732
